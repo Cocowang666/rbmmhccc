@@ -1,0 +1,53 @@
+Data retrieval from IEDB
+Total data HLA-A*01:01 = 13114
+Total data HLA-A*03:01 = 7627
+Total data HLA-B*07:02 = 26182
+Total data HLA-B*08:01 = 5269
+Total data HLA-C*07:01 = 1490
+Total data HLA-C*07:02 = 2059
+Final data HLA-A*01:01 = 2148 for average length 9.0
+Final data HLA-A*03:01 = 1874 for average length 9.0
+Final data HLA-B*07:02 = 8479 for average length 9.0
+Final data HLA-B*08:01 = 2106 for average length 9.0
+Final data HLA-C*07:01 = 547 for average length 9.0
+Final data HLA-C*07:02 = 827 for average length 9.0
+Amount of labelled peptides for HLA-A*01:01 = 99
+Amount of labelled peptides for HLA-A*03:01 = 99
+Amount of labelled peptides for HLA-B*07:02 = 99
+Amount of labelled peptides for HLA-B*08:01 = 99
+Amount of labelled peptides for HLA-C*07:01 = 99
+Amount of labelled peptides for HLA-C*07:02 = 99
+Length full sample 5864
+Data retrieval from IEDB
+Total data HLA-A*01:01 = 13114
+Total data HLA-A*03:01 = 7627
+Total data HLA-B*07:02 = 26182
+Total data HLA-B*08:01 = 5269
+Total data HLA-C*07:01 = 1490
+Total data HLA-C*07:02 = 2059
+Final data HLA-A*01:01 = 2148 for average length 9.0
+Final data HLA-A*03:01 = 1874 for average length 9.0
+Final data HLA-B*07:02 = 8479 for average length 9.0
+Final data HLA-B*08:01 = 2106 for average length 9.0
+Final data HLA-C*07:01 = 547 for average length 9.0
+Final data HLA-C*07:02 = 827 for average length 9.0
+Data retrieval from IEDB
+Total data HLA-A*01:01 = 13114
+Total data HLA-A*03:01 = 7627
+Total data HLA-B*07:02 = 26182
+Total data HLA-B*08:01 = 5269
+Total data HLA-C*07:01 = 1490
+Total data HLA-C*07:02 = 2059
+Final data HLA-A*01:01 = 2148 for average length 9.0
+Final data HLA-A*03:01 = 1874 for average length 9.0
+Final data HLA-B*07:02 = 8479 for average length 9.0
+Final data HLA-B*08:01 = 2106 for average length 9.0
+Final data HLA-C*07:01 = 547 for average length 9.0
+Final data HLA-C*07:02 = 827 for average length 9.0
+Amount of labelled peptides for HLA-A*01:01 = 99
+Amount of labelled peptides for HLA-A*03:01 = 99
+Amount of labelled peptides for HLA-B*07:02 = 99
+Amount of labelled peptides for HLA-B*08:01 = 99
+Amount of labelled peptides for HLA-C*07:01 = 99
+Amount of labelled peptides for HLA-C*07:02 = 99
+Length full sample 5864

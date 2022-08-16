@@ -1,0 +1,13 @@
+Data retrieval from IEDB
+Total data HLA-A*01:01 = 13114
+Total data HLA-A*03:01 = 7627
+Total data HLA-B*07:02 = 26182
+Total data HLA-B*08:01 = 5269
+Total data HLA-C*07:01 = 1490
+Total data HLA-C*07:02 = 2059
+Final data HLA-A*01:01 = 5382 for average length 9.5
+Final data HLA-A*03:01 = 3577 for average length 9.5
+Final data HLA-B*07:02 = 15515 for average length 9.5
+Final data HLA-B*08:01 = 3479 for average length 9.5
+Final data HLA-C*07:01 = 771 for average length 9.5
+Final data HLA-C*07:02 = 1144 for average length 9.5
